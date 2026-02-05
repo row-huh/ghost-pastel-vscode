@@ -2,9 +2,11 @@
   "name": "ghost-pastel",
   "displayName": "ghost-pastel",
   "description": "",
-  "version": "0.0.1",
+  "publisher": "rokage",
+  "repository": "https://github.com/row-huh/ghost-pastel-vscode",
+  "version": "0.0.4",
   "engines": {
-    "vscode": "^1.109.0"
+    "vscode": "^1.100.0"
   },
   "categories": [
     "Themes"
